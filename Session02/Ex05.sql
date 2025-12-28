@@ -1,3 +1,4 @@
+DROP DATABASE DatabaseEx05;
 CREATE DATABASE DatabaseEx05;
 USE DatabaseEx05;
 

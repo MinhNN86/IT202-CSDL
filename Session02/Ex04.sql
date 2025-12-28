@@ -1,3 +1,4 @@
+DROP DATABASE DatabaseEx04;
 CREATE DATABASE DatabaseEx04;
 USE DatabaseEx04;
 
