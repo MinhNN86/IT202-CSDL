@@ -1,5 +1,4 @@
--- Active: 1766633313296@@127.0.0.1@3306@DemoSession02
--- Tạo bảng 
+-- Tạo bảng
 CREATE DATABASE DemoSession02;
 
 USE DemoSession02;
