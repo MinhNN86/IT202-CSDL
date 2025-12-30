@@ -1,3 +1,4 @@
+DROP DATABASE MiniProject_online_learning;
 CREATE DATABASE MiniProject_online_learning;
 USE MiniProject_online_learning;
 
