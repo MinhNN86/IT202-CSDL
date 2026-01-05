@@ -1,11 +1,8 @@
 -- Tạo bảng
+DROP DATABASE IF EXISTS DemoSession02;
 CREATE DATABASE DemoSession02;
 
 USE DemoSession02;
-
--- Xóa bảng person
-DROP TABLE Hobbies;
-DROP TABLE Persons;
 
 -- Tạo bảng person
 CREATE TABLE Persons(
@@ -33,7 +30,7 @@ ALTER TABLE Persons
 DROP COLUMN phone;
 -- Chỉnh sửa kiểu dữ liệu
 ALTER TABLE Persons
-MODIFY COLUMN phone char(11);
+MODIFY phone char(11);
 
 -- Chỉnh sửa ràng buộc
 ALTER TABLE Hobbies
