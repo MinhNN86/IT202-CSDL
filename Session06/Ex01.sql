@@ -1,4 +1,4 @@
-# DROP DATABASE DatabaseEx01;
+DROP DATABASE DatabaseEx01;
 CREATE DATABASE DatabaseEx01;
 USE DatabaseEx01;
 

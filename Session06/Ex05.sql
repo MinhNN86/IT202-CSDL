@@ -2,9 +2,6 @@ DROP DATABASE IF EXISTS DatabaseEx05;
 CREATE DATABASE DatabaseEx05;
 USE DatabaseEx05;
 
-DROP TABLE Orders;
-DROP TABLE Customers;
-
 CREATE TABLE Customers(
     customer_id INT PRIMARY KEY ,
     customer_name VARCHAR(255)
