@@ -15,7 +15,7 @@ CREATE TABLE Persons(
     PRIMARY KEY(personId)
 );
 -- Tạo bảng sở thích
-CREATE TABLE Hobbies(
+CREATE TABLE HobHobbiesbies(
     id INT PRIMARY KEY,
     name VARCHAR(100) CHECK ( length(name) > 4 ),
     personId INT,
